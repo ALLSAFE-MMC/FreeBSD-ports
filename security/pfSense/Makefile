@@ -91,7 +91,7 @@ NO_BUILD=	yes
 CONFLICTS=	pfSense-vmware-[0-9]*
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	serkan.balkanli@allsafe.com.tr
+GH_ACCOUNT=	ALLSAFE-MMC
 GH_PROJECT= 	pfsense
 GH_TAGNAME=	${PFSENSE_COMMITHASH}
 MASTER_SITE_BACKUP=
